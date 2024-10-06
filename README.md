@@ -1,6 +1,6 @@
 # EVA Framework: An Evaluation Benchmark for AR-VR Applications in Engineering Education
 ![attract](Assets/attract.png)
-Illustrating different realities based environments, depicting a comparison in first person view. (a) Fully Immersive Virtual Reality, (b) Mixed/Augmented Reality, (c) Non-Immersive Digital Reality.
+Illustrating different realities based environments, depicting a comparison in first person view.** (a)** Fully Immersive Virtual Reality,** (b)** Mixed/Augmented Reality,** (c)** Non-Immersive Digital Reality.
 ## Introduction
 The **EVA Framework** is a comprehensive evaluation benchmark designed to assess the effectiveness of AR/VR/MR technologies in engineering education. The framework evaluates both technical aspects (like detection latency, tracking accuracy, rendering performance) and human factors (such as learning retention, fatigue, and user satisfaction). The framework has been tested on several devices including **Oculus Quest 2**, **Microsoft HoloLens 2**, and **iPad**, focusing on their applicability in enhancing engineering education.
 
